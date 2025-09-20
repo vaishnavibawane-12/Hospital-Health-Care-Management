@@ -40,9 +40,6 @@ Here are sample screenshots of the dashboard:
 
 1. ![Screenshot 1](1.png)  
 2. ![Screenshot 2](2.png)  
-3. ![Screenshot 3](3.png)  
-4. ![Screenshot 4](4.png)  
-5. ![Screenshot 5](5.png)  
 
 ## 🔗 Data sources
 
